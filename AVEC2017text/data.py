@@ -166,7 +166,7 @@ def loaddata(files_csv , Participant_ID, DAICWOZ_scripts):
 				Ellie_STATE = 0
 				label = str(Participant_ID)#文本对应的情感类别
 				print('Ellie:' , text_a)
-				print('Participant_%d :' % Participant_ID , text_a)
+				print('Participant_%d :' % Participant_ID , text_b)
 				qa_data.append(InputExample(unique_id=unique_id, text_a=text_a, text_b=text_b))#加入到InputExample列表中
 				unique_id = unique_id+1
 				text_a = ''
