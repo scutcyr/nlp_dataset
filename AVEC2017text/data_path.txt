@@ -1,0 +1,34 @@
+﻿# South China University of Technology
+# Yirong Chen
+# mail:eecyryou@mail.scut.edu.cn
+
+################################################################################
+# 数据集路径
+
+/157Dataset/data-chen.yirong/nlpdataset/AVEC_17_18_text
+
+/157Dataset/data-chen.yirong/nlpdataset/AVEC_17_18_text/AVEC2017text
+dev_split_Depression_AVEC2017.csv
+test_split_Depression_AVEC2017.csv
+train_split_Depression_AVEC2017.csv
+Readme.txt
+
+/157Dataset/data-chen.yirong/nlpdataset/AVEC_17_18_text/AVEC2017text/DAICWOZ_scripts
+300_TRANSCRIPT.csv
+301_TRANSCRIPT.csv
+...
+
+492_TRANSCRIPT.csv
+
+
+
+
+
+
+
+
+
+
+
+
+
